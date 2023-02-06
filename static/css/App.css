@@ -1,0 +1,44 @@
+.body{
+  margin: 10px auto;
+  max-width: 1200px;
+  min-width: 800px;
+  
+}
+
+.nav_bar{
+  position: relative;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  
+  border: 1px solid black;
+}
+.react{
+  position: relative;
+  
+  
+}
+
+.add{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  
+}
+
+.list{
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  margin-bottom: 10px;
+  padding: 20px;
+  border: 3px solid seagreen;
+  border-radius: 10px;
+}
+.show{
+  position: relative;
+  display: flex;
+  flex-direction:column;
+}
